@@ -1,13 +1,15 @@
-name: "my-website"
+name: "Josh Sumner"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Josh Sumner"
   left:
     - text: "Resume"
       href: resume.html
     - text: "Fin"
       href: Fin.html
+    - text: "Github repo"
+      href: githubrepolink.html
 
 output:
   html_document:

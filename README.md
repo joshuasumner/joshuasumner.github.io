@@ -1,3 +1,6 @@
-# basicwebpagetemplate
+# Firstshotatthiswholething
 
-This repository provides the skeleton for a basic web page compiled using the `rmarkdown` package's built-in site generator, as described in [Section 10.5](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html) of [_R Markdown: The Definitive Guide_](https://bookdown.org/yihui/rmarkdown/). It was created to serve as the starting point for a personal web page [assignment]((https://stat-jet-asu.github.io/DataScience1/Projects/Project00.html)) for students enrolled in [STT3850 Data Science 1](https://stat-jet-asu.github.io/DataScience1/) at [Appalachian State University](https://www.appstate.edu/).
+This repository and corresponding website are my first attempt at using github along with R to create anything of this type.
+I do not really know what else to put here so I am going to use it to keep some notes about how this has gone. I have been having some user error problems in making github and R communicate but I think I have gotten those resolved. Pulling images from my computer into R has not been working with the same commands that I have used in the past. I am not sure if that is something subtle that I have changed in the code or if R servers online could have a different path to files than local R downloaded on my computer. Finally the Github side of things remains confusing and I do not feel comfortable with that interface yet.
+
+
