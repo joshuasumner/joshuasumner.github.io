@@ -1,5 +1,11 @@
 ---
-title: "My Website"
+title: "Index"
 ---
 
-Hello, Website!
+Hello, my name is Josh Sumner. 
+I am a senior exercise science major out of Appalachian State University in North Carolina with a concentration in strength and conditioning and a minor in statistics. I will graduate in 2019 and I am currently pursuing graduate school options.
+My interests include strength and conditioning, strength sports, health care/research, and data analysis.
+My personal life is personal and generally notwithstanding but if you have questions about Fin, I will answer in as timely and thorough of a manner as I possibly can.
+I can be reached at "sumnerjq@appstate.edu"
+
+
